@@ -1,1 +1,1 @@
-# funnymath
+# funnymath readme
